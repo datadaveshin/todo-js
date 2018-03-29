@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/datadaveshin/todo-js/issues"
   },
-  "homepage": "https://github.com/datadaveshin/todo-js#readme"
+  "homepage": "https://github.com/datadaveshin/todo-js#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
 }
