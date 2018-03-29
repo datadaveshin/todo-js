@@ -1,0 +1,19 @@
+{
+  "name": "todo-js",
+  "version": "1.0.0",
+  "description": "vanilla todo list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datadaveshin/todo-js.git"
+  },
+  "author": "David Shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datadaveshin/todo-js/issues"
+  },
+  "homepage": "https://github.com/datadaveshin/todo-js#readme"
+}
